@@ -16,7 +16,7 @@ Types Of Data Cleaning Applied:
 
     Transforming Rows From (['68&rsquor;\|2:0\|Cristian Romero', '71&rsquor;\|3:0\|Nicolás Otamendi']) To The Number Of Yellow Cards Received Using Regex:
 
-    ![](media/ba990de14c180045274e44132b1ec9b9.png)
+    !(C:\Users\Mohamed\Pictures\LONDON PICS\1.jpg "Optional title")
 
     **Data Modeling**
 
