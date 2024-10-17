@@ -16,13 +16,15 @@ Types Of Data Cleaning Applied:
 
     Transforming Rows From (['68&rsquor;\|2:0\|Cristian Romero', '71&rsquor;\|3:0\|Nicolás Otamendi']) To The Number Of Yellow Cards Received Using Regex:
 
-    ![](media/ba990de14c180045274e44132b1ec9b9.png)
+    ![image](https://github.com/user-attachments/assets/674f9c74-7996-4107-8713-efde1db34046)
+
 
     **Data Modeling**
 
     A Star Schema Was Implemented:
 
-    ![](media/77b344b572d0d3c7b75b9e09b31ab14b.png)
+    ![image](https://github.com/user-attachments/assets/acdf0855-aa07-4e64-a49e-9fa51716480b)
+
 
     Fact Table: Match
 
@@ -32,7 +34,9 @@ Types Of Data Cleaning Applied:
 
     There Was A Total Of Four Dashboards:
 
-    **Refereeing Stats**: ![A screenshot of a computer screen Description automatically generated](media/c1b4d99de90b0070fc170d40ba204c3d.png)
+    **Refereeing Stats**:
+    ![image](https://github.com/user-attachments/assets/e184ee2d-4d2f-4014-abf1-e6d1bccc2a7e)
+
 
 -   **Comprehensive Referee Statistics**: The dashboard showcases the participation and performance of referees, highlighting top referees based on total matches officiated and knockout stage appearances.
 -   **Card Analysis Over Time**: It provides trends for yellow and red cards issued over the years, allowing users to observe changes in disciplinary actions throughout different World Cup editions.
@@ -40,7 +44,8 @@ Types Of Data Cleaning Applied:
 
     **World Cup Stats**:
 
-    ![](media/71032c7e4eb59b64bcaac40b911aa153.png)
+    ![image](https://github.com/user-attachments/assets/19a0959d-b899-42ac-8859-44453d5360e9)
+
 
 -   **World Cup Historical Overview**: The dashboard presents a high-level summary of World Cup history, including total matches played, the number of participating teams, unique champions, and tournament editions.
 -   **Team Achievements Visualized**: It highlights the most successful teams with charts showing the number of championships, runner-up finishes, and final appearances, providing insights into team performance across different tournaments.
@@ -48,7 +53,8 @@ Types Of Data Cleaning Applied:
 
     **Attendance Stats**:
 
-    ![A screenshot of a football match Description automatically generated](media/dcfe1f57aefd887dca331d7938d75f78.png)
+    ![image](https://github.com/user-attachments/assets/6008fc1a-33f9-4705-aa27-cf922dce1931)
+
 
 -   **Stadium Overview**: The dashboard highlights the top stadiums in terms of matches hosted and finals held, providing insights into the most frequently used venues in World Cup history.
 -   **Geographical Distribution**: It includes a map visualization to show the global distribution of matches hosted across different continents, offering a geographical perspective of World Cup events.
@@ -56,7 +62,8 @@ Types Of Data Cleaning Applied:
 
     **Scoring Stats:**
 
-    **![A screenshot of a computer screen Description automatically generated](media/f91200557c2ac418a9a42481d2ea8083.png)**
+    ![image](https://github.com/user-attachments/assets/d205b835-961c-4a07-95ad-61f7e522bd58)
+
 
 -   **Top Scorers Analysis**: The dashboard showcases the top goal scorers in a single World Cup, highlighting legendary players like Just Fontaine, Sándor Kocsis, and Gerd Müller, along with the latest top scorer, Kylian Mbappé.
 -   **Team Performance**: It provides an overview of the top-scoring teams in World Cup history, with Brazil, Argentina, and France leading the list, allowing for a comparison of scoring prowess across different nations.
