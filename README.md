@@ -1,8 +1,8 @@
-**Data Source**
+## Data Source
 
 The Data Set Used In The Project: <https://www.kaggle.com/datasets/piterfm/fifa-football-world-cup?select=matches_1930_2022.csv>
 
-**Data Cleaning**
+## Data Cleaning
 
 Types Of Data Cleaning Applied:
 
@@ -19,7 +19,7 @@ Types Of Data Cleaning Applied:
     ![image](https://github.com/user-attachments/assets/674f9c74-7996-4107-8713-efde1db34046)
 
 
-    **Data Modeling**
+    ## Data Modeling
 
     A Star Schema Was Implemented:
 
@@ -30,7 +30,7 @@ Types Of Data Cleaning Applied:
 
     Dimension Tables: World Cup-Stadium-Teams-Date
 
-    **Dashboards**
+    ## Dashboards
 
     There Was A Total Of Four Dashboards:
 
