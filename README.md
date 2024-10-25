@@ -2,6 +2,10 @@
 
 The Data Set Used In The Project: <https://www.kaggle.com/datasets/piterfm/fifa-football-world-cup?select=matches_1930_2022.csv>
 
+## Target Audience
+
+- Sports Analysts and Journalists: Professionals who need to analyze and report on football statistics, trends, and historical comparisons.
+- Football Historians and Researchers: Individuals who study the history of football and the World Cup.
 ## Data Cleaning
 
 Types Of Data Cleaning Applied:
